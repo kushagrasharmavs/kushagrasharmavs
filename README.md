@@ -51,7 +51,7 @@ Cloud and DevOps fresher with hands-on experience in cloud computing, **AWS infr
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
  
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrasharmavs&show_icons=true&locale=en&layout=compact" alt="kushagrasharmavs" /></p>
+
 
 
 
