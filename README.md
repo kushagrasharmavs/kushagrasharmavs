@@ -1,9 +1,8 @@
 <h1 align="center"> Heyy.!! 👋, I am KUSHAGRA SHARMA 😎 </h1>
 <h3 align="center">A passionate Cloud Engineer || DevOps Engineer || from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrasharmavs&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrasharmavs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagrasharmavs" alt="kushagrasharmavs" /></a> </p>
+## 🚀 About Me 
+Cloud and DevOps fresher with hands-on experience in cloud computing, **AWS infrastructure, DevOps automation, Docker, Kubernetes, and Infrastructure as Code (Terraform)** through academic and self-driven projects. Strong foundation in high availability, scalability, cloud security (IAM), networking fundamentals, Linux, and cloud best practices, seeking an entry-level cloud/DevOps role to learn and contribute under guidance in an enterprise or consulting environment.
 
 - 🌱 I’m currently learning **Container orchestration & Infrastructure as Code.**
 
